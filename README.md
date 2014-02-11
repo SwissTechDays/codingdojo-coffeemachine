@@ -2,7 +2,7 @@ codingdojo-coffeemachine
 ========================
 
 TechDay#3
-Coding Dojo - Coffee Machine
+- sujet : http://simcap.github.io/coffeemachine/
+- projet java simple
+- junit 4
 
-
-Sujet : http://simcap.github.io/coffeemachine/
